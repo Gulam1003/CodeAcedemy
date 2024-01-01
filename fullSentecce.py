@@ -1,0 +1,5 @@
+sentence = input("Enter full sentence : ")
+print("Your typed sentence : " + sentence)
+print(sentence[::-1])
+print(sentence.upper())
+print(sentence[0::2])
